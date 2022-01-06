@@ -40,7 +40,7 @@ h2{
 }
 .link-button{
     text-decoration: none;
-    background-image: -moz-linear-gradient(orange, tomato);
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
