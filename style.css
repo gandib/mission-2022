@@ -10,10 +10,12 @@ body{
 .color-black{
     color: black;
    font-size: 40px;
+   line-height: 30px;
 }
 .color-brown{
     color: brown;
   font-size: 40px;
+  line-height: 30px;
 }
 .half-width{
 width: 50%;
@@ -66,7 +68,7 @@ p{
 }
 .mission-2022-section{
 width: 30%;
-height: 350px;
+height: 390px;
 margin-left: 3%;
 margin-right: 3%;
 padding-left: 20px;
